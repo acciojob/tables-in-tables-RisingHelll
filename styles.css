@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+table,th, td,caption{
+	border: 1px solid black;
+}
+
+table{
+	width: 100%;
+}
+
+#htm{
+	color: white;
+	background: rgb(0, 0, 0);
+}
+
+#cent{
+	background: black;
+}
+
+#n{
+	color: #653196;
+}
+table{
+	text-align: center;
+}
+
